@@ -10,7 +10,7 @@ def rotate_image():
 
 counter =1
 root = Tk()
-root.title('Wallpaper Viewer By Deepak Kumar')
+root.title('Wallpaper Viewer By Diya Soni')
 
 root.geometry('500x700')
 root.configure(background='black')
